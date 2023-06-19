@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NattapongKongJadee
 - 👀 I’m interested in ... Java,Spring framework
 - 🌱 I’m currently learning ...Spring
-- 💞️ I’m looking to collaborate on ...Bank,Assurance
+- 💞️ I’m looking to collaborate on ...Bank,Assurance,IT
 - 📫 How to reach me ...get cleary goal and do it !! 
 
 <!---
