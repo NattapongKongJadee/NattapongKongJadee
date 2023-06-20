@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...Spring,CSS,HTML,React,Microservices
 - 💞️ I’m looking to collaborate on ...Bank,Assurance,IT Company
 - 📫 How to reach me ...get cleary goal and do it !!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NattpongKOngJadee.Spring_CRUD_webAPP)
+![visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/hit/NattapongKongJadee
+/NattapongKongJadee)
+
 
   
 
