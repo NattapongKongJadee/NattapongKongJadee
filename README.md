@@ -1,10 +1,3 @@
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-
 
 - 👋 Hi, I’m @NattapongKongJadee
 - 👀 I’m interested in ... Java,Spring framework
