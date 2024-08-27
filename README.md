@@ -16,12 +16,12 @@
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
     <h4>React Js</h4>
-    <img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="40" height="40" alt="react" />
+    <img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="60" height="60" alt="react" />
   </div>
 
   <div style="margin-right: 20px;">
     <h4>Next Js</h4>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="nextjs" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="60" height="60" alt="nextjs" />
   </div>
 
 
@@ -29,13 +29,13 @@
   <div style="margin-right: 20px;">
     <h4>Node Js</h4>
     <a href="https://logowik.com/nodejs-vector-logo-4392.html">
-      <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="80" height="80" alt="nodejs" />
+      <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="60" height="60" alt="nodejs" />
     </a>
   </div>
 
   <div style="margin-right: 20px;">
     <h4>Flutter</h4>
-    <img src="https://img.icons8.com/color/48/flutter.png" width="48" height="48" alt="flutter" />
+    <img src="https://img.icons8.com/color/48/flutter.png" width=60" height="60" alt="flutter" />
   </div>
 
   <div>
