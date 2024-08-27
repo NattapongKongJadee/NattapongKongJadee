@@ -20,6 +20,13 @@
   </div>
 
   <div style="margin-right: 20px;">
+    <h4>Next Js</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40" alt="nextjs" />
+  </div>
+
+
+
+  <div style="margin-right: 20px;">
     <h4>Node Js</h4>
     <a href="https://logowik.com/nodejs-vector-logo-4392.html">
       <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="80" height="80" alt="nodejs" />
