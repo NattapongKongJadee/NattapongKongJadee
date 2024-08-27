@@ -12,11 +12,27 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
-<a href="https://logowik.com/nodejs-vector-logo-4392.html">
-    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="80" height="80">
-</a>
-<img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapongkongjadee&show_icons=true&locale=en&layout=compact" alt="nattapongkongjadee" /></p>
 
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <h4>React Js</h4>
+    <img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="40" height="40" alt="react" />
+  </div>
+
+  <div style="margin-right: 20px;">
+    <h4>Node Js</h4>
+    <a href="https://logowik.com/nodejs-vector-logo-4392.html">
+      <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="80" height="80" alt="nodejs" />
+    </a>
+  </div>
+
+  <div style="margin-right: 20px;">
+    <h4>Flutter</h4>
+    <img src="https://img.icons8.com/color/48/flutter.png" width="48" height="48" alt="flutter" />
+  </div>
+
+  <div>
+    <h4>Most Used Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapongkongjadee&show_icons=true&locale=en&layout=compact" alt="nattapongkongjadee" />
+  </div>
+</div>
