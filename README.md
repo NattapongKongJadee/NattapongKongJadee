@@ -20,9 +20,8 @@
 
   <div style="margin-right: 20px;">
     <h4>Next Js</h4>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="65" height="65" alt="nextjs" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="65" height="65" alt="nextjs" />
   </div>
-
 
   <div style="margin-right: 20px;">
     <h4>Node Js</h4>
@@ -31,11 +30,10 @@
     </a>
   </div>
 
-
   <div style="margin-right: 20px;">
     <h4>Nest Js</h4>
-  <a href="https://logowik.com/nestjs-node-js-logo-vector-71288.html">
-<img src="https://logowik.com/content/uploads/images/nestjs-node-js5572.logowik.com.webp" width="65" height="65">
+    <a href="https://logowik.com/nestjs-node-js-logo-vector-71288.html">
+      <img src="https://logowik.com/content/uploads/images/nestjs-node-js5572.logowik.com.webp" width="65" height="65" alt="nestjs" />
     </a>
   </div>
 
