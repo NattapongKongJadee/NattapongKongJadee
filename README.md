@@ -12,37 +12,32 @@
 <p align="left">
 </p>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="margin-right: 20px;">
-    <h4>React Js</h4>
-    <img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="65" height="65" alt="react" />
-  </div>
+<h3 align="left">Tech Stack:</h3>
 
-  <div style="margin-right: 20px;">
-    <h4>Next Js</h4>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="65" height="65" alt="nextjs" />
-  </div>
-
-  <div style="margin-right: 20px;">
-    <h4>Node Js</h4>
-    <a href="https://logowik.com/nodejs-vector-logo-4392.html">
+<table>
+  <tr>
+    <td align="center">
+      <h4>React Js</h4>
+      <img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="65" height="65" alt="react" />
+    </td>
+    <td align="center">
+      <h4>Next Js</h4>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="65" height="65" alt="nextjs" />
+    </td>
+    <td align="center">
+      <h4>Node Js</h4>
       <img src="https://logowik.com/content/uploads/images/nodejs.jpg" width="65" height="65" alt="nodejs" />
-    </a>
-  </div>
-
-  <div style="margin-right: 20px;">
-    <h4>Nest Js</h4>
-    <a href="https://logowik.com/nestjs-node-js-logo-vector-71288.html">
+    </td>
+    <td align="center">
+      <h4>Nest Js</h4>
       <img src="https://logowik.com/content/uploads/images/nestjs-node-js5572.logowik.com.webp" width="65" height="65" alt="nestjs" />
-    </a>
-  </div>
-
-  <div style="margin-right: 20px;">
-    <h4>Flutter</h4>
-    <img src="https://img.icons8.com/color/48/flutter.png" width="65" height="65" alt="flutter" />
-  </div>
-</div>
-  <div>
+    </td>
+    <td align="center">
+      <h4>Flutter</h4>
+      <img src="https://img.icons8.com/color/48/flutter.png" width="65" height="65" alt="flutter" />
+    </td>
+  </tr>
+</table>
     <h4>Most Used Languages</h4>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nattapongkongjadee&show_icons=true&locale=en&layout=compact" alt="nattapongkongjadee" />
   </div>
