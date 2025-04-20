@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Thiantun Intakan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattapongkongjadee&label=Profile%20views&color=0e75b6&style=flat" alt="nattapongkongjadee" /> </p>
 
-- 🌱 I’m currently 
+- 🌱 I’m currently "Looking for new job"
 
 - 📫 How to reach me **intakan.chok@gmail.com**
 
